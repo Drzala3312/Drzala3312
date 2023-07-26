@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drzala3312
-- 👀 I’m interested in Machcine Learning, Deep Learning
+- 👀 I’m interested in Machine Learning, Deep Learning
 - 🌱 I’m currently learning Deep Learning
 
 
